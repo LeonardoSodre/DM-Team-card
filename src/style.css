@@ -1,0 +1,60 @@
+*{
+    font-family: Arial;
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.cabecalho{
+    border: solid 2px;
+    width: 497px;
+    height: 295px;
+    padding-top: 10px;
+    border-radius: 10px;
+    color: black;
+    border-radius: solid 2px;    
+}
+.container{
+    border: solid 4px;
+    position: center;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border-radius: solid 2px;   
+    background-color: rgb(70, 67, 67); 
+    margin-inline: auto;
+}
+
+img#logo{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: solid 2px;
+    border-radius: 5px;
+}
+
+.rodape{
+    color: white;
+    border: solid 2px;
+    background-color:  rgb(70, 67, 67); 
+    padding-top: 40px;
+    width: 99%;  
+    margin-bottom: 0;
+  
+}
+.body{
+    border: solid 2px;
+    color:white;
+    
+    
+}
+
+.secao{
+    background-color: rgba(255, 255, 255, 0.466);    
+}
